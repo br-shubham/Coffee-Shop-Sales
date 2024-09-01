@@ -19,6 +19,7 @@ The project focused on extracting and organizing essential product details:
 # Enhanced Data Visualization
 
 **Roast Type Descriptions:** Added descriptive names for each roast type to enhance clarity.
+
 **Day of the Week, Month Number, and Hourly Analysis:** These columns were introduced to provide deeper insights into sales patterns across different times, helping to identify peak hours, daily trends, and monthly variations.
 
 # Business Insights
