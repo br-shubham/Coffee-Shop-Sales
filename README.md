@@ -12,8 +12,11 @@ Customer Data Integration
 The project focused on extracting and organizing essential product details:
 
 **Coffee Type:** Categorized and analyzed different coffee types using Excel.
+
 **Roast Type:** Mapped each product to its respective roast type.
+
 **Size:** Classified product sizes with Excel's advanced data manipulation tools.
+
 **Unit Price:** Calculated and analyzed unit prices for each product.
 
 # Enhanced Data Visualization
